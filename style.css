@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding: 0;;
+}
+
+.container{
+    text-align: center;
+}
+
+.calculator{
+    display:inline-block;
+    background-color: rgb(255, 0, 255);
+    border-radius: 1rem;
+}
+
+input{
+    width:28vw;
+    padding: 1rem;
+    border: .2rem solid rgb(6, 180, 6);
+    border-radius: .7rem;
+    margin: .5rem;
+    outline: none;
+    font-size: 1rem;
+
+}
+
+table{
+    margin: auto;
+}
+
+button{
+    padding: 1rem;
+    margin: .25rem;
+    height: 9vh;
+    width: 7vw;
+    border: .2rem solid blue;
+    border-radius: .6rem;
+    font-size:1.5rem;
+    background-color: red;
+    color: white;
+}
